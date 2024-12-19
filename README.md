@@ -1,7 +1,5 @@
 ### Hi there, I'm José Ignacio Herrera Gré (aka Pepenacho or Pepe) 👋
 
-Soy un desarrollador apasionado por el **backend**, las **bases de datos** y la creación de sistemas eficientes, escalables y resilientes.
-
 ## 🚀 Habilidades
 
 - **Lenguajes de Programación**:  
