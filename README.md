@@ -14,7 +14,7 @@ Soy un desarrollador apasionado por el **backend**, las **bases de datos** y la 
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-730D39?style=for-the-badge&logo=couchbase&logoColor=white)
 
 - **Tecnologías y Herramientas**:  
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Microservicios](https://img.shields.io/badge/-Microservices-4D79FE?style=flat-square&logo=microservices&logoColor=white) ![AOP](https://img.shields.io/badge/-AOP-9B9B9B?style=flat-square&logo=java&logoColor=white)
 
 - **Patrones de Diseño**:  
   ![Functional Programming](https://img.shields.io/badge/Functional_Programming-57A0D1?style=for-the-badge&logo=python&logoColor=white) ![Concurrency](https://img.shields.io/badge/Concurrency-FF6200?style=for-the-badge&logo=java&logoColor=white) ![Resilience](https://img.shields.io/badge/Resilience-3C9CD7?style=for-the-badge&logo=java&logoColor=white)
@@ -31,7 +31,7 @@ Un sistema de ecommerce basado en **microservicios** desarrollado con **Java**, 
 ![GitHub Streak](https://gitstreak.vercel.app/streaks/DexioTelio?theme=radical)
 
 ## 🧑‍🎤 Escuchando en Spotify
-![Spotify](https://novatorem.vercel.app/api/spotify?user=DexioTelio)
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=José%20Ignacio%20Herrera%20Gré&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)
 
 ## 📫 ¿Cómo contactarme?
 - Correo: [herreragre@tuta.io](mailto:herreragre@tuta.io)
