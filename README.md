@@ -25,7 +25,7 @@ Soy un desarrollador apasionado por el **backend**, las **bases de datos** y la 
 ## 💻 Proyectos Destacados
 
 ### [E-commerce en Microservicios](https://github.com/DexioTelio/user_services)  
-Un sistema de ecommerce basado en **microservicios** desarrollado con **Java**, **Spring Boot**, **Hibernate**, **Vavr**, **PostgreSQL**, **Docker**, **PL/pgSQL** y **Couchbase**. Este proyecto está en constante desarrollo y tiene como objetivo ofrecer una solución escalable y eficiente para ventas en línea, mientras implementa buenas prácticas de diseño y patrones funcionales.
+Un sistema de ecommerce basado en **microservicios** desarrollado con **Java**, **Spring Boot**, **Vavr**, **PostgreSQL**, **Docker**, **PL/pgSQL** y **Couchbase**. Este proyecto está en constante desarrollo y tiene como objetivo ofrecer una solución escalable y eficiente para ventas en línea, mientras implementa buenas prácticas de diseño y patrones funcionales.
 
 ## 📈 Estadísticas de GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DexioTelio&show_icons=true&theme=radical)
