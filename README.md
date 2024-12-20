@@ -31,7 +31,7 @@ Un sistema de ecommerce basado en **microservicios** desarrollado con **Java**, 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DexioTelio&show_icons=true&theme=radical)
 
 ## 🧑‍🎤 Escuchando en Spotify
-![Spotify](https://novatorem.vercel.app/api/spotify?user=31tb2sl6cxvje6frw5k7mztjybby)
+![Spotify](https://novatorem.vercel.app/api/spotify?user=José%20Ignacio%20Herrera%20Gré)
 
 ## 📫 ¿Cómo contactarme?
 - Correo: [herreragre@tuta.io](mailto:herreragre@tuta.io)
