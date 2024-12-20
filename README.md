@@ -1,7 +1,5 @@
 ### Hi there, I'm José Ignacio Herrera Gré (aka Pepenacho or Pepe) 👋
 
-Soy un desarrollador apasionado por el **backend**, las **bases de datos** y la creación de sistemas eficientes, escalables y resilientes.
-
 ## 🚀 Habilidades
 
 - **Lenguajes de Programación**:  
@@ -15,9 +13,6 @@ Soy un desarrollador apasionado por el **backend**, las **bases de datos** y la 
 
 - **Tecnologías y Herramientas**:  
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff) ![Microservices](https://img.shields.io/badge/-Microservices-50A5F1?style=flat-square&logo=apachekafka&logoColor=ffffff) ![AOP](https://img.shields.io/badge/-AOP-FF6700?style=flat-square&logo=java&logoColor=ffffff) ![Database Design](https://img.shields.io/badge/-Database%20Design-4e73df?style=flat-square&logo=mysql&logoColor=ffffff)
-
-- **Patrones de Diseño**:  
-  ![Functional Programming](https://img.shields.io/badge/-Functional%20Programming-9C1D24?style=flat-square&logo=haskell&logoColor=ffffff) ![Concurrency](https://img.shields.io/badge/-Concurrency-77B5D5?style=flat-square&logo=python&logoColor=ffffff) ![Resilience](https://img.shields.io/badge/-Resilience-58A6FF?style=flat-square&logo=cloudflare&logoColor=ffffff)
 
 - **Intereses**:  
   - Optimización de **rendimiento**, programación **funcional**, buenas prácticas de codificación y arquitectura de software.
