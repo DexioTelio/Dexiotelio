@@ -24,17 +24,14 @@ Soy un desarrollador apasionado por el **backend**, las **bases de datos** y la 
 
 ## 💻 Proyectos Destacados
 
-### [E-commerce en Microservicios](https://github.com/miusuario/ecommerce)  
+### [E-commerce en Microservicios](https://github.com/DexioTelio/user_services)  
 Un sistema de ecommerce basado en **microservicios** desarrollado con **Java**, **Spring Boot**, **Hibernate**, **Vavr**, **PostgreSQL**, **Docker**, **PL/pgSQL** y **Couchbase**. Este proyecto está en constante desarrollo y tiene como objetivo ofrecer una solución escalable y eficiente para ventas en línea, mientras implementa buenas prácticas de diseño y patrones funcionales.
 
 ## 📈 Estadísticas de GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DexioTelio&show_icons=true&theme=radical)
 
-## 🏆 Mi Racha de Actividad
-![GitHub Streak](https://gitstreak.vercel.app/streaks/DexioTelio?theme=radical)
-
 ## 🧑‍🎤 Escuchando en Spotify
-![Spotify](https://novatorem.vercel.app/api/spotify?user=José%20Ignacio%20Herrera%20Gré)
+![Spotify](https://novatorem.vercel.app/api/spotify?user=31tb2sl6cxvje6frw5k7mztjybby)
 
 ## 📫 ¿Cómo contactarme?
 - Correo: [herreragre@tuta.io](mailto:herreragre@tuta.io)
