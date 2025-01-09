@@ -35,6 +35,3 @@ Un sistema de ecommerce basado en **microservicios** desarrollado con **Java**, 
 
 ## 🌱 Estoy abierto a nuevas oportunidades:  
 Actualmente busco **trabajo** y **pasantías** para seguir creciendo profesionalmente. Si estás buscando a alguien con pasión por la programación y el aprendizaje constante, no dudes en contactarme.
-
-## ⚡ Fun Fact  
-Soy tan **hogareño** que vivo como si estuviera en **cuarentena**
