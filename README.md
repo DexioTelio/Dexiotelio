@@ -7,7 +7,7 @@
 
 
 - **Frameworks y Librerías**:  
-  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=ffffff) ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=ffffff) ![JPA](https://img.shields.io/badge/-JPA-0067A5?style=flat-square&logo=java&logoColor=ffffff) ![JDBC](https://img.shields.io/badge/-JDBC-0067A5?style=flat-square&logo=java&logoColor=ffffff) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=ffffff) ![Vavr](https://img.shields.io/badge/-Vavr-9C1D24?style=flat-square&logo=vavr&logoColor=ffffff) ![htt4s](https://img.shields.io/badge/-htt4s-2E8B57?style=flat-square&logo=scala&logoColor=ffffff) ![Akka HTTP](https://img.shields.io/badge/-Akka%20HTTP-3A76F0?style=flat-square&logo=lightning&logoColor=ffffff)
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=ffffff) ![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=ffffff) ![JPA](https://img.shields.io/badge/-JPA-0067A5?style=flat-square&logo=java&logoColor=ffffff) ![JDBC](https://img.shields.io/badge/-JDBC-0067A5?style=flat-square&logo=java&logoColor=ffffff) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=ffffff) ![Vavr](https://img.shields.io/badge/-Vavr-9C1D24?style=flat-square&logo=vavr&logoColor=ffffff)
   
 - **Bases de Datos**:  
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff) ![Couchbase](https://img.shields.io/badge/-Couchbase-499899?style=flat-square&logo=couchbase&logoColor=ffffff)
