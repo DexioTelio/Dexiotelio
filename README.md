@@ -3,7 +3,7 @@
 ## 🚀 Habilidades
 
 - **Lenguajes de Programación**:  
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff) ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=ffffff) ![PL/pgSQL](https://img.shields.io/badge/-PL%2FpgSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=ffffff) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff) ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=ffffff)
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff) ![PL/pgSQL](https://img.shields.io/badge/-PL%2FpgSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=ffffff) 
 
 
 - **Frameworks y Librerías**:  
@@ -13,16 +13,10 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff) ![Couchbase](https://img.shields.io/badge/-Couchbase-499899?style=flat-square&logo=couchbase&logoColor=ffffff)
 
 - **Tecnologías y Herramientas**:  
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 
 - **Intereses**:  
   - Optimización de **rendimiento**, programación **funcional**, buenas prácticas de codificación y arquitectura de software.  
-  - **Infraestructura en la nube** y orquestación de contenedores con Kubernetes.
-
-## 💻 Proyectos Destacados
-
-### [E-commerce en Microservicios](https://github.com/DexioTelio/user_services)  
-Un sistema de ecommerce basado en **microservicios** desarrollado con **Java**, **Spring Boot**, **Vavr**, **PostgreSQL**, **Docker**, **PL/pgSQL** y **Couchbase**. Este proyecto está en constante desarrollo y tiene como objetivo ofrecer una solución escalable y eficiente para ventas en línea, mientras implementa buenas prácticas de diseño y patrones funcionales.
 
 ## 📈 Estadísticas de GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DexioTelio&show_icons=true&theme=radical)
