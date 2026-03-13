@@ -3,7 +3,7 @@
 ## 🚀 Habilidades
 
 - **Lenguajes de Programación**:  
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff) ![PL/pgSQL](https://img.shields.io/badge/-PL%2FpgSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=ffffff) 
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff) ![PL/pgSQL](https://img.shields.io/badge/-PL%2FpgSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
 
 
 - **Frameworks y Librerías**:  
