@@ -139,12 +139,6 @@ Some books that have influenced my learning:
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DexioTelio\&show_icons=true\&theme=radical)
-
----
-
 ## 📫 Contact
 
 * Email: [herreragre@tuta.io](mailto:herreragre@tuta.io)
