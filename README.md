@@ -9,8 +9,11 @@ Interested in **performance optimization, functional programming and large-scale
 
 ### Programming Languages
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square\&logo=java\&logoColor=ffffff)
-![PL/pgSQL](https://img.shields.io/badge/-PL%2FpgSQL-336791?style=flat-square\&logo=postgresql\&logoColor=ffffff)
+Primary languages used for backend development and database programming.
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=ffffff)
+![PL/pgSQL](https://img.shields.io/badge/-PL%2FpgSQL-336791?style=flat-square&logo=postgresql&logoColor=ffffff)
 
 ### Frameworks & Libraries
 
@@ -32,6 +35,22 @@ Interested in **performance optimization, functional programming and large-scale
 
 ---
 
+## 🏗 Architecture Focus
+
+I am particularly interested in the design of scalable backend systems.
+
+Architectural patterns I actively explore:
+
+* Microservices architecture
+* Event-driven systems
+* CQRS
+* Outbox pattern
+* Saga orchestration
+* Database per service
+* Domain-driven design concepts
+
+---
+
 ## 🧩 Current Projects
 
 ### Banking System (Microservices Architecture)
@@ -50,11 +69,11 @@ Key architectural characteristics:
 
 Core services currently implemented:
 
-* **user-service**
-  User domain, personal data, business state and regulatory information.
+**user-service**
+User domain, personal data, business state and regulatory information.
 
-* **auth-service**
-  Authentication, credentials, authorization, refresh tokens and security policies.
+**auth-service**
+Authentication, credentials, authorization, refresh tokens and security policies.
 
 Planned evolution:
 
@@ -108,16 +127,67 @@ COBOL-based batch banking experiments inspired by legacy banking systems.
 
 ---
 
-## 🎯 Current Learning Focus
+## 🎓 Education & Continuous Learning
 
-* **C# and ASP.NET Core**
-* **SQL Server**
-* **Scala**
-* Distributed systems architecture
+### Completed Courses
+
+**PostgreSQL Bootcamp: Go From Beginner to Advanced (60+ hours)**
+Instructor: Adnan Waheed
+Completed: November 17, 2025
+
+Main topics:
+
+* Advanced SQL
+* Query optimization
+* Indexing strategies
+* Database design
+* PL/pgSQL programming
 
 ---
 
-## 📚 Learning Resources
+### Currently Studying
+
+**Java Masterclass 2025: 130+ Hours of Expert Lessons**
+Instructor: Tim Buchalka
+Progress: 34%
+
+Main topics covered in the course:
+
+* Core Java
+* Object-Oriented Programming
+* Collections framework
+* Concurrency
+* JVM fundamentals
+
+---
+
+## ⚙ Core Engineering Interests
+
+Areas I actively explore through projects and study:
+
+* Backend architecture
+* Distributed systems design
+* Data consistency in microservices
+* Database architecture
+* Functional programming techniques
+* Performance optimization
+
+---
+
+## 🧠 Engineering Approach
+
+I enjoy designing systems with clear domain boundaries and explicit data ownership.
+
+Principles I try to follow:
+
+* Strong domain modelling
+* Clear service responsibilities
+* Explicit consistency models
+* Reliable event-driven communication
+
+---
+
+## 📚 Influential Books
 
 Some books that have influenced my learning:
 
@@ -141,4 +211,4 @@ Some books that have influenced my learning:
 
 ## 📫 Contact
 
-* Email: [herreragre@tuta.io](mailto:herreragre@tuta.io)
+Email: [herreragre@tuta.io](mailto:herreragre@tuta.io)
